@@ -1,6 +1,6 @@
 <h2>Olá, Bem-vindo!<br/>Sou o Juvenal Bruno :hand:</h2>
 <h3>Cargo:</h3>
-<h4>Desenvolvedor Jr. :computer:</h4>
+<h4>:hammer_and_wrench: Programador Jr.</h4>
 
 <h3>Páginas:</h3>
 <h4>:camera: Bruno_Andrade (Pessoal)</h4>
@@ -36,15 +36,15 @@
 
 <h3>Sobre: </h3>
 <li>:mortar_board: Graduando em Ciência e Tecnologia - UFBA.</li>
-<li>:gear: Construindo a carreira em FullStack, com ponto forte em frontend.</li>
+<li>:gear: Construindo a carreira em FullStack.</li>
 <li>:briefcase: Trabalhando como Freelancer.</li>
 
-<h2>Conhecimentos:</h2>
-<li>Node.JS</li>
-<li>JavaScript</li>
-<li>React.JS</li>
-<li>React Native</li>
-<li>Vue.JS</li>
-<li>Angular</li>
-<li>HTML</li>
-<li>CSS</li>
+<h2>:books: Conhecimentos:</h2>
+<li>:open_file_folder: Node.JS</li>
+<li>:open_file_folder: JavaScript</li>
+<li>:open_file_folder: React.JS</li>
+<li>:open_file_folder: React Native</li>
+<li>:open_file_folder: Vue.JS</li>
+<li>:open_file_folder: Angular</li>
+<li>:open_file_folder: HTML</li>
+<li>:open_file_folder: CSS</li>
