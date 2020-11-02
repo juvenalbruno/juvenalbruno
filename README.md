@@ -11,7 +11,6 @@
   />
 </a>
 <br/>
-<hr/>
 
 <h4>:camera: Bruno_Andrade (Pessoal)</h4>
 <!--
