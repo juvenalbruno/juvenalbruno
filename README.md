@@ -1,5 +1,5 @@
-<h2>
-  Olá, <spam>Bem-vindo</spam>! :hand: 
+<h3>
+  Olá, Bem-vindo!
   </br>
-  Sou o Juvenal Bruno!
-</h2>
+  Sou o Juvenal Bruno :hand:
+</h3>
