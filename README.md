@@ -69,4 +69,4 @@
 
 <br/>
 <br/>
-(![juvenalbruno's github stats](https://github-readme-stats.vercel.app/api?juvenalbruno=anuraghazra&hide=contribs,prs)
+![juvenalbruno's github stats](https://github-readme-stats.vercel.app/api?juvenalbruno=anuraghazra&hide=contribs,prs)
