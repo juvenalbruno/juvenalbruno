@@ -68,4 +68,5 @@
 <h2>:hammer_and_wrench: Projetos:</h2>
 
 <br/>
-![Juvenal Bruno's github stats](https://github-readme-stats.vercel.app/api?juvenalbruno=anuraghazra&hide=contribs,prs)
+
+![Juvenal Bruno's github stats](https://github-readme-stats.vercel.app/api?username=juvenalbruno&show_icons=true&theme=radical)
