@@ -21,6 +21,6 @@
 <br/>
 
 <h3>Sobre: </h3>
-<li Graduando em Ciência e Tecnologia - UFBA.>
-<li Construindo a carreira em FullStack.>
-<li Trabalhando como Freelancer.>
+<li <div>Graduando em Ciência e Tecnologia - UFBA.</div>>
+<li <div>Construindo a carreira em FullStack.</div>>
+<li <div>Trabalhando como Freelancer.</div>>
