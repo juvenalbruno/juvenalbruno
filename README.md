@@ -17,3 +17,12 @@
        src="https://images.vexels.com/media/users/3/137198/isolated/preview/07f0d7b69ef071571e4ada2f4d6a053a---cone-do-instagram-colorido-by-vexels.png"
   </>
 </a>
+<br/>
+<br/>
+
+<h3>Sobre: </h3>
+<li>
+  <ul>- Graduando em Ciência e Tecnologia - UFBA.</ul>
+  <ul>- Construindo a carreira em FullStack.</ul>
+  <ul>- Trabalhando como Freelancer.</ul>
+</li>
