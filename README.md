@@ -1,4 +1,6 @@
-<h2>Olá, Bem-vindo!<br/>Sou o Juvenal Bruno :hand:<br/>Desenvolvedor Jr. :computer:</h2>
+<h2>Olá, Bem-vindo!<br/>Sou o Juvenal Bruno :hand:</h2>
+<h3>Cargo:</h3>
+<h4>Desenvolvedor Jr. :computer:</h4>
 
 <h3>Páginas:</h3>
 <h4>:camera: Bruno_Andrade (Pessoal)</h4>
