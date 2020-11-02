@@ -3,7 +3,7 @@
 <h3>Páginas:</h3>
 
 <h4>Jovem.Developer</h4>
-<a href="https://www.instagram.com/jovem.developer" >
+<a href="https://www.instagram.com/jovem.developer"  aling="top">
   <img 
        align="left" 
        alt="jovem.developer" 
