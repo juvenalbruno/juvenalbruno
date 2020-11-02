@@ -68,9 +68,3 @@
 <h2>:hammer_and_wrench: Projetos:</h2>
 
 <br/>
-
-<p align="center">
-
-<a href="https://github.com/juvenalbruno?tab=repositories&q=&type=&language=javascript"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
-
-</p>
