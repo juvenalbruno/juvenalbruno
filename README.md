@@ -12,8 +12,8 @@
   />
 </a>
 <br>
-<h4>:camera: Bruno Andrade (Pessoal)</h4>
-<a href="https://www.instagram.com/bruno_andrade66/">
+<h4>:camera: Bruno_Andrade (Pessoal)</h4>
+<a href="https://www.instagram.com/bruno_andrade66">
   <img
        align="left"
        alt="bruno_andrade66"
