@@ -34,6 +34,7 @@
        src="https://images.vexels.com/media/users/3/137198/isolated/preview/07f0d7b69ef071571e4ada2f4d6a053a---cone-do-instagram-colorido-by-vexels.png"/>
 </a>
 <br/>
+<br/>
 
 <h3>Sobre: </h3>
 <li>:mortar_board: Graduando em Ciência e Tecnologia - UFBA.</li>
@@ -41,7 +42,6 @@
 <li>:briefcase: Trabalhando como Freelancer.</li>
 <br/>
 <br/>
-
 
 <h2>:books: Conhecimentos:</h2>
 <li>:open_file_folder: Node.JS</li>
