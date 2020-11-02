@@ -22,7 +22,7 @@
   <img
        align="left"
        alt="bruno.andrade178@hotmail.com"
-       width="40px"
+       width="35px"
        src="https://upload.wikimedia.org/wikipedia/commons/8/81/Email_new.svg"
   />    
 </a>
