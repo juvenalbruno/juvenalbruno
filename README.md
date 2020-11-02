@@ -70,4 +70,5 @@
 <br/>
 
 <h2>:chart_with_upwards_trend: Estatísticas:<h2>
+<br/>  
 ![Juvenal Bruno's github stats](https://github-readme-stats.vercel.app/api?username=juvenalbruno&show_icons=true&theme=radical)
