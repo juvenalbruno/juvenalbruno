@@ -3,7 +3,11 @@
 <h3>Páginas:</h3>
 <h4>:pushpin: Jovem.Developer (Divulgação)</h4>
 <a href="https://www.instagram.com/jovem.developer">
-  <img align="left" alt="jovem.developer" width="50px" src="https://images.vexels.com/media/users/3/137198/isolated/preview/07f0d7b69ef071571e4ada2f4d6a053a---cone-do-instagram-colorido-by-vexels.png"/>
+  <img 
+       align="left" 
+       alt="jovem.developer" 
+       width="35px" 
+       src="https://images.vexels.com/media/users/3/137198/isolated/preview/07f0d7b69ef071571e4ada2f4d6a053a---cone-do-instagram-colorido-by-vexels.png"/>
 </a>
 <br/>
 <br/>
@@ -13,7 +17,7 @@
   <img
        align="left"
        alt="bruno_andrade66"
-       width="50px"
+       width="35px"
        src="https://images.vexels.com/media/users/3/137198/isolated/preview/07f0d7b69ef071571e4ada2f4d6a053a---cone-do-instagram-colorido-by-vexels.png"
   />
 </a>
@@ -21,7 +25,7 @@
   <img
        align="left"
        alt="bruno.andrade178@hotmail.com"
-       width="50px"
+       width="35px"
        src="https://upload.wikimedia.org/wikipedia/commons/8/81/Email_new.svg"
   />    
 </a>
