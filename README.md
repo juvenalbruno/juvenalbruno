@@ -2,7 +2,6 @@
 <h3>Cargo:</h3>
 <h4>:computer: Programador Jr.</h4>
 <br/>
-<br/>
 
 <h3>Páginas:</h3>
 <h4>:camera: Bruno_Andrade (Pessoal)</h4>
@@ -35,8 +34,6 @@
        src="https://images.vexels.com/media/users/3/137198/isolated/preview/07f0d7b69ef071571e4ada2f4d6a053a---cone-do-instagram-colorido-by-vexels.png"/>
 </a>
 <br/>
-<br/>
-
 
 <h3>Sobre: </h3>
 <li>:mortar_board: Graduando em Ciência e Tecnologia - UFBA.</li>
