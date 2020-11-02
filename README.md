@@ -2,7 +2,7 @@
 
 <h3>Cargo:</h3>
 
-<h4>:computer: Programador Jr.</h4>
+<p>:computer: Programador Jr.</p>
 
 <br/>
 
