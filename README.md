@@ -1,4 +1,4 @@
-<h2>Olá, Bem-vindo!</br>Sou o Juvenal Bruno :hand:</h2>
+<h2>Olá, Bem-vindo!<br/>Sou o Juvenal Bruno :hand:</h2>
 
 <h3>Páginas:</h3>
 
@@ -13,7 +13,7 @@
 </a>
 
 <br/>
-<h4>:camera: Bruno_Andrade (Pessoal)</h4>
+<h4 alihn="left">:camera: Bruno_Andrade (Pessoal)</h4>
 <a href="https://www.instagram.com/bruno_andrade66">
 
 </a>
