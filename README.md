@@ -34,7 +34,15 @@
 
 <h3>Sobre: </h3>
 <li>:mortar_board: Graduando em Ciência e Tecnologia - UFBA.</li>
-<li>:gear: Construindo a carreira em FullStack.</li>
+<li>:gear: Construindo a carreira em FullStack, com ponto forte em frontend.</li>
 <li>:briefcase: Trabalhando como Freelancer.</li>
 
 <h2>Conhecimentos:</h2>
+<li>Node.JS</li>
+<li>JavaScript</li>
+<li>React.JS</li>
+<li>React Native</li>
+<li>Vue.JS</li>
+<li>Angular</li>
+<li>HTML</li>
+<li>CSS</li>
