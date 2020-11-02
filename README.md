@@ -1,8 +1,8 @@
 <h2>Olá, Bem-vindo!<br/>Sou o Juvenal Bruno :hand:</h2>
-<h3>:pushpin:Cargo:</h3>
-<h4>:hammer_and_wrench: Programador Jr.</h4>
+<h3>Cargo:</h3>
+<h4>:computer: Programador Jr.</h4>
 
-<h3>:pushpin:Páginas:</h3>
+<h3>Páginas:</h3>
 <h4>:camera: Bruno_Andrade (Pessoal)</h4>
 <a href="https://www.instagram.com/bruno_andrade66">
   <img
