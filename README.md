@@ -1,5 +1,4 @@
-### Hi there, 
-  I'm Juvenal Bruno 👋
+# Olá, sou o Juvenal Bruno :raised_hand:white
 
 <!--
 **juvenalbruno/juvenalbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
