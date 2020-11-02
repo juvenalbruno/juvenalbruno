@@ -15,7 +15,15 @@
        alt="bruno_andrade66"
        width="50px"
        src="https://images.vexels.com/media/users/3/137198/isolated/preview/07f0d7b69ef071571e4ada2f4d6a053a---cone-do-instagram-colorido-by-vexels.png"
-  </>
+  />
+</a>
+<a href="mailto:bruno.andrade178@hotmail.com">
+  <img
+       align="left"
+       alt="bruno.andrade178@hotmail.com"
+       width="50px"
+       src="https://upload.wikimedia.org/wikipedia/commons/8/81/Email_new.svg"
+  />    
 </a>
 <br/>
 <br/>
