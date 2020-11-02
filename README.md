@@ -21,6 +21,6 @@
 <br/>
 
 <h3>Sobre: </h3>
-<li> Graduando em Ciência e Tecnologia - UFBA.</li>
-<li>Construindo a carreira em FullStack.</li>
-<li>Trabalhando como Freelancer.</li>
+<li>:mortar_board: Graduando em Ciência e Tecnologia - UFBA.</li>
+<li>:hourglass: Construindo a carreira em FullStack.</li>
+<li>:computer:Trabalhando como Freelancer.</li>
