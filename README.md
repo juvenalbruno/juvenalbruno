@@ -67,12 +67,11 @@
 <br/>
 
 <h2>:hammer_and_wrench: Projetos:</h2>
+
+<br/>
+
 <p align="center">
+
 <a href="https://github.com/juvenalbruno?tab=repositories&q=&type=&language=javascript"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="php"></a>
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
 
 </p>
