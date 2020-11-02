@@ -34,7 +34,7 @@
 
 <h3>Sobre: </h3>
 <li>:mortar_board: Graduando em Ciência e Tecnologia - UFBA.</li>
-<li>:heavy_check_mark: Construindo a carreira em FullStack.</li>
-<li>:heavy_check_mark: Trabalhando como Freelancer.</li>
+<li>:gear: Construindo a carreira em FullStack.</li>
+<li>:briefcase: Trabalhando como Freelancer.</li>
 
-<h2>
+<h2>Conhecimentos:</h2>
