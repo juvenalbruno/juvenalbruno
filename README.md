@@ -8,8 +8,7 @@
 
 <h3>Páginas:</h3>
 
-<h4>:camera: Bruno_Andrade (Pessoal)</h4>
-
+<p>:camera: Bruno_Andrade (Pessoal)</p>
 <a href="https://www.instagram.com/bruno_andrade66">
   <img
        align="left"
@@ -31,7 +30,7 @@
 <br/>
 <br/>
 
-<h4>:pushpin: Jovem.Developer (Divulgação)</h4>
+<p>:pushpin: Jovem.Developer (Divulgação)</p>
 <a href="https://www.instagram.com/jovem.developer">
   <img 
        align="left" 
