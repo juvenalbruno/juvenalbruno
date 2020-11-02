@@ -35,6 +35,7 @@
 </a>
 <br/>
 <br/>
+<br/>
 
 <h3>Sobre: </h3>
 <li>:mortar_board: Graduando em Ciência e Tecnologia - UFBA.</li>
