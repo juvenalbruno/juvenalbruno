@@ -1,8 +1,8 @@
 <h2>Olá, Bem-vindo!<br/>Sou o Juvenal Bruno :hand:</h2>
 
-<h3>Cargo:</h3>
+<h3>Foco:</h3>
 
-<p>:computer: Programador Jr.</p>
+<p>:computer: Programador Jr. em Web.</p>
 
 <br/>
 
