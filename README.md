@@ -66,6 +66,7 @@
 <br/>
 
 <h2>:hammer_and_wrench: Projetos:</h2>
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Di%26url%3Dhttps%253A%252F%252Fcommons.wikimedia.org%252Fwiki%252FFile%253AUnofficial_JavaScript_logo_2.svg%26psig%3DAOvVaw2L7DMy_eqTT_pagX3r0Bes%26ust%3D1604453815509000%26source%3Dimages%26cd%3Dvfe%26ved%3D0CAIQjRxqFwoTCKDfr7We5ewCFQAAAAAdAAAAABAJ
 
 <br/>
 <br/>
