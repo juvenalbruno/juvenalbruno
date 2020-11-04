@@ -66,7 +66,8 @@
 
 <h2>:books: Projetos:</h2>
 
-<h4>:pushpin:<a href="https://github.com/juvenalbruno/Imersao_React_Juflix"> JuFlix</a></h4>
+<h3>:pushpin:<a href="https://github.com/juvenalbruno/Imersao_React_Juflix"> JuFlix</a></h3>
+<h3>:pushpin:<a href="https://github.com/juvenalbruno/SemanaOmniStack11"> Be The Hero</a></h3>
 
 <br/>
 <br/>
