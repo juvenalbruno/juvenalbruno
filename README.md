@@ -66,8 +66,14 @@
 
 <h2>:books: Projetos:</h2>
 
-<h3>:pushpin:<a href="https://github.com/juvenalbruno/Imersao_React_Juflix"> JuFlix</a></h3>
-<h3>:pushpin:<a href="https://github.com/juvenalbruno/SemanaOmniStack11"> Be The Hero</a></h3>
+<h4>:pushpin:<a href="https://github.com/juvenalbruno/Imersao_React_Juflix"> JuFlix</a></h4>
+<h4>:pushpin:<a href="https://github.com/juvenalbruno/SemanaOmniStack11"> Be The Hero</a></h4>
+<h4>:pushpin:<a href="https://github.com/juvenalbruno/NLW_01"> Ecoleta</a></h4>
+<h4>:pushpin:<a href="https://github.com/juvenalbruno/NLW_02"> Proffy</a></h4>
+<h4>:pushpin:<a href="https://github.com/juvenalbruno/NLW_03"> Happy</a></h4>
+
+<br/>
+<h4>:pushpin: <a href="https://github.com/juvenalbruno/curso_web_js"> Projetos em aula Web</a></h4>
 
 <br/>
 <br/>
