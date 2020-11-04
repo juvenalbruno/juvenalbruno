@@ -64,17 +64,7 @@
 
 <br/>
 <br/>
-<!--
-<h2>:hammer_and_wrench: Projetos:</h2>
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/javascript.svg?style=for-the-badge&logo=c%2B%2B&logoColor=F7DF1E&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="php"></a>
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-</p><br>
---!>
+<h2>:books: Projetos:</h2>
 
 <br/>
 <br/>
