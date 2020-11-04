@@ -63,7 +63,7 @@
 <li>:open_file_folder: CSS</li>
 
 <br/>
-<br/>
+
 <h2>:books: Projetos:</h2>
 
 <br/>
