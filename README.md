@@ -66,6 +66,8 @@
 
 <h2>:books: Projetos:</h2>
 
+<li>:paperclip: JuFlix;</li>
+
 <br/>
 <br/>
 
