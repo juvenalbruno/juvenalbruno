@@ -66,7 +66,7 @@
 
 <h2>:books: Projetos:</h2>
 
-<li> <a href="https://github.com/juvenalbruno/Imersao_React_Juflix"></li>
+<li><a href="https://github.com/juvenalbruno/Imersao_React_Juflix">:file_folder: JuFlix</a></li>
 
 <br/>
 <br/>
