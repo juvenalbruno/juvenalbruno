@@ -53,4 +53,4 @@
 <br/>
 <br/>
 
-![Juvenal Bruno's github stats](https://github-readme-stats.vercel.app/api?username=juvenalbruno&show_icons=true&theme=radical)
+<!-- ![Juvenal Bruno's github stats](https://github-readme-stats.vercel.app/api?username=juvenalbruno&show_icons=true&theme=radical) --!>
