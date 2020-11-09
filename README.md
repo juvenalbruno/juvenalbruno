@@ -1,8 +1,6 @@
 <h2>Olá, Bem-vindo!<br/>Sou o Juvenal Bruno :hand:</h2>
 
 <h3>Página e Contato:</h3>
-
-<p>:pushpin: Jovem.Developer (Divulgação)</p>
 <a href="https://www.instagram.com/jovem.developer">
   <img 
        align="left" 
