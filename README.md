@@ -32,6 +32,7 @@
 
 <li>:open_file_folder: Node.JS</li>
 <li>:open_file_folder: JavaScript</li>
+<li>:open_file_folder: TypeScript</li>
 <li>:open_file_folder: React.JS</li>
 <li>:open_file_folder: React Native</li>
 <li>:open_file_folder: Vue.JS</li>
