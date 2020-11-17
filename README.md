@@ -46,9 +46,9 @@
 
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/Imersao_React_Juflix">JuFlix</a></h4>
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/SemanaOmniStack11-master">Be The Hero</a></h4>
-<h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_01">Ecoleta</a></h4>
+<h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_01-Ecoleta_v1.0">Ecoleta (v1.0)</a></h4>
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_02">Proffy</a></h4>
-<h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_03">Happy</a></h4>
+<h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_03-Happy_v1.0">Happy</a></h4>
 <h4>:closed_book: <a href="https://github.com/juvenalbruno/curso_web_js">Projetos aula Web</a></h4>
 
 <br/>
