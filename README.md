@@ -49,7 +49,8 @@
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_01-Ecoleta_v1.0">Ecoleta (v1.0)</a></h4>
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_02">Proffy</a></h4>
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_03-Happy_v1.0">Happy (v1.0)</a></h4>
-<h4>:closed_book: <a href="https://github.com/juvenalbruno/curso_web_js">Projetos aula Web</a></h4>
+<h4>:closed_book: <a href="https://github.com/juvenalbruno/curso_web_js">Projetos do Curso de Web</a></h4>
+<h4>:closed_book: <a href="https://github.com/juvenalbruno/Curso_React-Redux">Projetos do Curso de React e Redux</a></h4>
 
 <br/>
 <br/>
