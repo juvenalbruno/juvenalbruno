@@ -35,6 +35,7 @@
 <li>:open_file_folder: TypeScript</li>
 <li>:open_file_folder: React.JS</li>
 <li>:open_file_folder: React Native</li>
+<li>:open_file_folder: Next.JS</li>
 <li>:open_file_folder: Vue.JS</li>
 <li>:open_file_folder: Angular</li>
 <li>:open_file_folder: HTML</li>
@@ -49,6 +50,7 @@
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_01-Ecoleta_v1.0">Ecoleta (v1.0)</a></h4>
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_02">Proffy</a></h4>
 <h4>:pushpin: <a href="https://github.com/juvenalbruno/NLW_03-Happy_v1.0">Happy (v1.0)</a></h4>
+<h4>:pushpin: <a href="https://github.com/juvenalbruno/Quiz_O_Senhor_dos_Aneis_ALURA">Quiz: O Senhor dos Anéis - Imersão React/Next (v1.0)</a></h4>
 <h4>:closed_book: <a href="https://github.com/juvenalbruno/curso_web_js">Projetos do Curso de Web</a></h4>
 <h4>:closed_book: <a href="https://github.com/juvenalbruno/Curso_React-Redux">Projetos do Curso de React e Redux</a></h4>
 
