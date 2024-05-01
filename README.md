@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<h2>:books: Conhecimentos:</h2>
+<h2>:books: Conhecimentos Técnicos:</h2>
 
 <li>:open_file_folder: C</li>
 <li>:open_file_folder: C++</li>
