@@ -4,8 +4,8 @@
 
 <h3>Sobre: </h3>
 <li>:mortar_board: Graduado em Bacharel em Ciência e Tecnologia - UFBA.</li>
-<li>:mortar_board: Mestrando em Ciência da Cmputação - Otimização computacional - UFBA.</li>
-<li>:gear: Dev FullStack pela Verzel</li>
+<li>:mortar_board: Mestre e Doutorando em Ciência da Cmputação - Otimização computacional - UFBA.</li>
+<li>:gear: Software Engineer | Desenvolvedor Full-Stack | IA aplicada a planejamento e soluções</li>
 
 <br/>
 <br/>
