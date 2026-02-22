@@ -17,6 +17,7 @@
 <li>:open_file_folder: C#</li>
 <li>:open_file_folder: Blazor</li>
 <li>:open_file_folder: Python</li>
+<li>:open_file_folder: Django</li>
 <li>:open_file_folder: Node.JS</li>
 <li>:open_file_folder: JavaScript</li>
 <li>:open_file_folder: TypeScript</li>
